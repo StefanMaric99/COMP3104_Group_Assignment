@@ -1,3 +1,4 @@
 George Brown College is in Toronto, Ontario, Canada.
 It has a computer programming & analysis program.
 
+There are plenty of courses taught in the program, and devops is one of them.
