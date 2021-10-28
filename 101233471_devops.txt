@@ -1,1 +1,2 @@
 Comp 3104 is a course within the Computer Programmer and Analyst Program and it covers various DevOps topics.
+In this course we learned how to create a github repository, add files, commit changes, and push those files.
