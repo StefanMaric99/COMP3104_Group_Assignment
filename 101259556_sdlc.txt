@@ -1,0 +1,2 @@
+SDLC stands for software development life cycle.
+Devops in the SDLC are very important because it helps the speed at which projects can be developed at.
