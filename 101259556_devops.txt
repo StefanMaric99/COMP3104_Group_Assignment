@@ -1,2 +1,3 @@
 COMP3104 is a course that I am taking this semester.
 
+So far we have learned quite a bit about git and other build tools in this course.
