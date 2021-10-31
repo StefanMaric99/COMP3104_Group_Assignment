@@ -1,0 +1,3 @@
+COMP 3104
+
+This course is a year 3 course. We have learned CLI, Git, CI/CD Pipeline etc. COMP3104 lasts for about 15 weeks, starts from sept and ends in december. Our professor for this class is Pritesh Patel.
